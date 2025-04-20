@@ -57,7 +57,7 @@ streamlit run app.py
 
 - **Features Logistic Regression and other fine-tuned ML models.**
 
-- **Achieves 90%+ accuracy using hyperparameter tuning.**
+- **Achieves 80%+ accuracy using hyperparameter tuning.**
 
  ## Contributing
 
