@@ -1,7 +1,7 @@
 # CricWin-AI : IPL Winning Team Prediction using Machine Learning
 
 ## Overview
-This project predicts the probability of an IPL team winning a match based on real match data from **2009 to 2019**. The dataset is sourced from **Kaggle** and has been fine-tuned using machine learning algorithms to achieve an **accuracy above 90%**. The project features a **Streamlit-based web application** for interactive predictions.
+This project predicts the probability of an IPL team winning a match based on real match data from **2009 to 2019**. The dataset is sourced from **Kaggle** and has been fine-tuned using machine learning algorithms to achieve an **accuracy above 80%**. The project features a **Streamlit-based web application** for interactive predictions.
 
 ## Features
 - **High Accuracy**: The model is trained and fine-tuned for over **90% accuracy**.
